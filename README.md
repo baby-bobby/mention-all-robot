@@ -14,10 +14,10 @@
 ### 🚀 Deploy to heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
 
-###🎯 Deploy on Railway
+### 🎯 Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
 
-###🌐 ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
+### 🌐 ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a>
  
 
