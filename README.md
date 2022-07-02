@@ -25,7 +25,7 @@
 # [ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ📡](https://t.me/comrade_network)
 
 ## Support & Updates 
-<a href="https://t.me/tamilchatting_team_comrade"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/tamilchatting_team_comrade"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/love_u_bobby"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 - [ʙᴀʙʏ ʙᴏʙʙʏ](https://github.com/baby-bobby) 👈🏼
 - [ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ](https://t.me/comrade_robotz) 👈🏼
