@@ -1,6 +1,6 @@
-# SOCIAL MECHANIC  MENTION ROBOT
+#   MENTION ROBOT
 
-<IMG src="https://telegra.ph/file/6caec29bf58337953a4b4.png">
+<IMG src="https://telegra.ph/file/5a566d20e4674e8b6c3d0.jpg">
 
 # Mention All Bot
 
@@ -12,21 +12,21 @@
 - Telegram Library: Telethon.
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/baby-bobby/MENTION-ROBOT)
 
 ### 🎯 Deploy on Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SOCIAL-MECHANIC-1997/MENTION-ROBOT)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/baby-bobby/MENTION-ROBOT)
 
 ### 👉🏼 Credits and Other
-- [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) for this Project ;)
+- [ʙᴏʙʙʏ](https://t.me/love_u_bobby) for this Project ;)
 
 # Do not forget to follow me on Github 
 
-# [🇸𝙾𝙲𝙸𝙰𝙻 🇲𝙴𝙲𝙷𝙰𝙽𝙸𝙲 ](https://t.me/social_mechanic_1997)
+# [ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ📡](https://t.me/comrade_network)
 
 ## Support & Updates 
-<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/tamilchatting_team_comrade"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/social_mechanic"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
-- [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
-- [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
-- [𝘿𝙀𝙈𝙊](https://t.me/social_mention_robot) 👈🏼
+- [ʙᴀʙʏ ʙᴏʙʙʏ](https://github.com/baby-bobby) 👈🏼
+- [ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ](https://t.me/comrade_robotz) 👈🏼
+- [ᴅᴇᴍᴏ](https://t.me/mention_x_robot) 👈🏼
